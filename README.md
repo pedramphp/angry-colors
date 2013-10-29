@@ -2,4 +2,4 @@ angry-colors
 ============
 
 
-please email us at info@mexoin.com for any questions
+please email us at info@mexoinc.com for any questions
